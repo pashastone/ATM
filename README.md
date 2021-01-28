@@ -14,9 +14,14 @@ My Test Bench (root folder):
 
 I implemented a small test class that can compare values and record test results. To run my test bench, simply run the Unit_Test.py file (I have version 3.7.1) and the expected result is the following:
 
+
 Encryption Test: 3/3 Test Cases Passed
+
 Account Test: 6/6 Test Cases Passed
+
 Bank Test: 6/6 Test Cases Passed
+
 ATM Test: 31/31 Test Cases Passed
+
 
 Please refer to the comments in Unit_Test.py for explanation on what each test is doing
